@@ -1,0 +1,22 @@
+{
+  "name": "tu-privacy-foodle",
+  "version": "1.0.0",
+  "description": "Notifies people not to use the foodle",
+  "main": "dist/index.js",
+  "author": "Lasse Sprengel",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec \"ts-node src/index.ts\" -e ts"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.3",
+    "@types/request": "^2.47.1",
+    "nodemon": "^1.18.3",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "himalaya": "^1.1.0",
+    "request": "^2.87.0"
+  }
+}
