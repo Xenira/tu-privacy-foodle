@@ -1,0 +1,11 @@
+TU Brunswick Foodle Privacy
+===========================
+
+This repository demonstrates, how its possible to get every person who signed up to the math pre-course at TU Brunswick https://abstimmung.dfn.de/foodle/Mathe-Vorkurs-Gruppe-5b2a0#responses[foodle] page using just *19* lines of code.
+
+The data is publicly available and includes
+
+- Full Name
+- E-Mail Adress
+- WHich dates the person wants to participate
+- When they signed up
