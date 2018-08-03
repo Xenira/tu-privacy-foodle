@@ -1,6 +1,8 @@
 TU Brunswick Foodle Privacy
 ===========================
 
+IMPORTANT: The TU Brunswick just removed the foodle. Good job!
+
 This repository demonstrates, how its possible to get every person who signed up to the math pre-course at TU Brunswick https://abstimmung.dfn.de/foodle/Mathe-Vorkurs-Gruppe-5b2a0#responses[foodle] page using just *19* lines of code.
 
 The data is publicly available and includes
